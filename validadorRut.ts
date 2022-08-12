@@ -33,7 +33,3 @@ class Rut {
      
     }
 }
-
-const yo = new Rut('7689240-7');
-
-console.log(yo.validate())
